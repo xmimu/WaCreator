@@ -52,7 +52,7 @@ class Client(WaapiClient):
         })
 
     def create_work_unit(self, work_unit_name: str, parent_path: str) -> None:
-        return self.create_object(WType.WORK_UNIT, work_unit_name, parent_path)
+        return self.create_object(WType.WorkUnit.name, work_unit_name, parent_path)
 
 
 if __name__ == '__main__':
