@@ -1,0 +1,15 @@
+autobahn==22.4.2
+autopep8==1.6.0
+cffi==1.15.0
+cryptography==37.0.2
+hyperlink==21.0.0
+idna==3.3
+pycodestyle==2.8.0
+pycparser==2.21
+PySide6==6.3.0
+PySide6-Addons==6.3.0
+PySide6-Essentials==6.3.0
+shiboken6==6.3.0
+toml==0.10.2
+txaio==22.2.1
+waapi-client==0.6
